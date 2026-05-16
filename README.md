@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="banner" />
+  <img src="./assets/banner-1.gif" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Atharv Joshi</h1>
